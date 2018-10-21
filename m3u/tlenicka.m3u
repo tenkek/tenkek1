@@ -1,4 +1,5 @@
-﻿#EXTM3U url-tvg="http://xtream-editor.com/en/get/epg/F4CB1691C7BD0E34DAA3A0EC91500DB0" catchup="xc"
+﻿Access-Control-Allow-Origin: *
+#EXTM3U url-tvg="http://xtream-editor.com/en/get/epg/F4CB1691C7BD0E34DAA3A0EC91500DB0" catchup="xc"
 #EXTINF:-1 tvg-id="HRTTV1.hr" tvg-name="HRTTV1.hr" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/HRT-1.jpg" group-title="Ex-Yu",HRT 1
 http://185.125.230.128:8080/live/tlenicka/mxKFjXSaQr/201.ts
 #EXTINF:-1 tvg-id="HRTTV2.hr" tvg-name="HRTTV2.hr" tvg-logo="http://teve.ba/img/articles/4044.jpg?Skoro_milion_ljudi_gledalo_HRT2" group-title="Ex-Yu",HRT 2
