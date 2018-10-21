@@ -1,0 +1,6 @@
+﻿#EXTM3U url-tvg="http://tv.powernet.com.ru/jtv.zip" m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0 
+#EXTINF:0 tvg-logo="Powernet" tvg-name="POWERNET_HD", Р’РћР›Р–РЎРљРР™+ (POWERNET) udp://@239.1.8.19:1234 
+#EXTINF:0 tvg-logo="Perviy volgograd" tvg-name="Р’РѕР»РіРѕРіСЂР°Рґ_1_HD", Р’РѕР»РіРѕРіСЂР°Рґ 1 HD udp://@239.1.8.21:1234 
+#EXTINF:0 tvg-name="РњРўР’", РњРўР’ udp://@239.1.8.77:1234
+#EXTM3U url-tvg="http://10.8.0.134:8080
+#EXTINF:0 tvg-id="HRTTV1.hr" tvg-name="HRTTV1.hr" udp://@http://185.125.230.128:8080/live/tlenicka/mxKFjXSaQr/201.ts

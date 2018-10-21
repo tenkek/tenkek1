@@ -1,4 +1,5 @@
-﻿Access-Control-Allow-Origin: *
+﻿#EXTM3U url-tvg="http://tv.powernet.com.ru/jtv.zip" m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0 #EXTINF:0 tvg-logo="Powernet" tvg-name="POWERNET_HD", Р’РћР›Р–РЎРљРР™+ (POWERNET) udp://@239.1.8.19:1234 #EXTINF:0 tvg-logo="Perviy volgograd" tvg-name="Р’РѕР»РіРѕРіСЂР°Рґ_1_HD", Р’РѕР»РіРѕРіСЂР°Рґ 1 HD udp://@239.1.8.21:1234 #EXTINF:0 tvg-name="РњРўР’", РњРўР’ udp://@239.1.8.77:1234
+Access-Control-Allow-Origin: *
 #EXTM3U url-tvg="http://10.8.0.134:8080
 #EXTM3U url-tvg="http://xtream-editor.com/en/get/epg/F4CB1691C7BD0E34DAA3A0EC91500DB0" catchup="xc"
 #EXTINF:-1 tvg-id="HRTTV1.hr" tvg-name="HRTTV1.hr" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/HRT-1.jpg" group-title="Ex-Yu",HRT 1
